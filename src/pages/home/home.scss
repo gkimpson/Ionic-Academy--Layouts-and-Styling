@@ -1,13 +1,16 @@
 page-home {
     #specialCol {
         background: #00ff00;
+        height: $row-height;
     }
 
     .first-col {
         background: #ff0000;
+        height: $row-height;
     }
 
     .second-col {
         background: #0000ff;
+        height: $row-height;
     }
 }
